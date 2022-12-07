@@ -1,0 +1,11 @@
+#timer {
+  font-size: 28px;
+  margin-left: 16px;
+  margin-bottom: 24px;
+  letter-spacing: 2px;
+}
+
+input {
+  padding: 10px;
+  font-weight: bold;
+}
